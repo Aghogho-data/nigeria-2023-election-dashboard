@@ -1,4 +1,4 @@
-# 🇳🇬 Nigeria 2023 Presidential Election Results Dashboard
+#  Nigeria 2023 Presidential Election Results Dashboard
 
 An interactive **Power BI** dashboard analysing voter turnout, party performance and participation gaps across Nigeria's 36 states, the FCT and the six geopolitical zones in the 2023 Presidential Election.
 
@@ -90,7 +90,7 @@ A decomposition tree (Region → State → Party), valid votes by geopolitical z
 | `2-regional-analysis.png` | Regional Analysis page |
 | `3-insights-recommendations.png` | Insights & Recommendations page |
 | `4-methodology.png` | Methodology & Limitations |
-| `Nigeria_Election_2023.pbix` | Power BI file *(open with Power BI Desktop)* |
+| `Nigeria 2023 Presidential Election.pbix` | Power BI file *(open with Power BI Desktop)* |
 
 ---
 
